@@ -1,0 +1,6 @@
+owner=357855920308355072
+prefix=F
+game=CSGO
+stayinchannel=true
+songinstatus=false
+token=NTc1MDQ4MDAwODA4ODEyNTc2.XNCRPw.uXhsiCVhA2HN6Hw-cabO8HJITDQ
